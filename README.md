@@ -1,1 +1,1 @@
-# Movie-Watchlist
+Full Movie Watchlist Project

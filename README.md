@@ -73,3 +73,8 @@ A modern movie discovery and watchlist web app built with **React + Vite**, feat
 ```sh
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
+
+<img width="1364" height="782" alt="image" src="https://github.com/user-attachments/assets/49d533dc-5fe1-4b8c-95a9-2fbf24fd9265" />
+<img width="1355" height="783" alt="image" src="https://github.com/user-attachments/assets/f1cac6c4-d975-46a9-99c9-3019d3e1e0f5" />
+<img width="1377" height="566" alt="image" src="https://github.com/user-attachments/assets/1759b8fa-b33b-425d-8756-becb7560ef5b" />
+<img width="1248" height="701" alt="image" src="https://github.com/user-attachments/assets/05e81425-77f0-4cb8-9480-84142bb982d6" />
